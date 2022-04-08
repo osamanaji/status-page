@@ -1,0 +1,3 @@
+Thank you for installing {{ .Chart.Name }}.
+This release is named {{ .Release.Name }}. Version {{ .Chart.Version }}.
+You can access stage page application using localhost:31234
