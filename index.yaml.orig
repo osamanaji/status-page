@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  status-page:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2022-04-08T14:07:18.455107382Z"
+    description: A Helm chart for Kubernetes
+    digest: 6044596790b33b37be48ee6db6f752b5b1ce0dd88d3874a2fb88045d5e17f454
+    name: status-page
+    type: application
+    urls:
+    - status-page/status-page-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-08T14:07:18.452596629Z"
